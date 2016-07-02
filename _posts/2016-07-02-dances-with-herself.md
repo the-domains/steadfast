@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Dances With Herself by Tim Mancuso '
-datePublished: '2016-07-02T07:45:46.959Z'
-dateModified: '2016-07-02T07:45:44.171Z'
+datePublished: '2016-07-02T08:20:50.277Z'
+dateModified: '2016-07-02T08:20:41.642Z'
 title: Dances With Herself
 author: []
 sourcePath: _posts/2016-07-02-dances-with-herself.md
@@ -18,6 +18,7 @@ _type: Article
 
 ---
 ## [Dances With Herself][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c39e74a4-73f6-4ff8-9b18-8e96ab593bc0.jpg)
 
 Dances With Herself by Tim Mancuso 
 
