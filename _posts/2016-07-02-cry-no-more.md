@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'https://www.reverbnation.com/steadfast/song/24398640-cry-no-more'
-datePublished: '2016-07-02T07:02:57.544Z'
-dateModified: '2016-07-02T07:02:52.817Z'
+description: ''
+datePublished: '2016-07-02T07:03:22.471Z'
+dateModified: '2016-07-02T07:03:19.638Z'
 title: Cry No More
 author: []
 sourcePath: _posts/2016-07-02-cry-no-more.md
@@ -18,7 +18,5 @@ _type: Article
 
 ---
 ## [Cry No More][0]
-
-https://www.reverbnation.com/steadfast/song/24398640-cry-no-more
 
 [0]: https://www.reverbnation.com/steadfast/song/24398640-cry-no-more
