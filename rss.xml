@@ -4,7 +4,7 @@
         <description><![CDATA[Musician Tim Mancuso - Steadfast]]></description>
         <link>https://thegrid.ai/steadfast/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 07:58:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 08:08:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/steadfast/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[You are here. ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/steadfast/you-are-here/index.html</link>
             <guid isPermaLink="false">80df25a7-6ca0-49c5-9159-544e492e4ce7</guid>
             <pubDate>Sat, 02 Jul 2016 07:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abce7477-eb18-4e5d-999e-45340c5e0343.jpg">]]></description>
+            <link>https://thegrid.ai/steadfast/04247b09-0a50-4bf6-afe2-e0975c48f0fd/index.html</link>
+            <guid isPermaLink="false">04247b09-0a50-4bf6-afe2-e0975c48f0fd</guid>
+            <pubDate>Sat, 02 Jul 2016 08:08:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/steadfast/dream-big/index.html</link>
             <guid isPermaLink="false">b3889180-92ef-4192-b54d-66658b1171e9</guid>
             <pubDate>Sat, 02 Jul 2016 07:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Love Come Down (Worship Cover)]]></title>
-            <description><![CDATA[<h1>Love Come Down (Worship Cover)</h1>]]></description>
-            <link>https://thegrid.ai/steadfast/love-come-down-worship-cover/index.html</link>
-            <guid isPermaLink="false">2470c2cf-f107-4353-a226-a92a0d9b9542</guid>
-            <pubDate>Sat, 02 Jul 2016 07:19:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
