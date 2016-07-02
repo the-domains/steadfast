@@ -1,6 +1,6 @@
 name: Tim Mancuso Music
 favicon: null
-layout_spectrum: 0.7294672639109194
+layout_spectrum: 0.96076
 typography_spectrum: 0.3782077473588288
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.22504790569655597
-  lightness: 0.5143351098522544
-  saturation: 0.3957988265901804
-  rhythmicContrast: 0.374562258599326
+    - '#ffffff'
+    - '#271b2f'
+    - '#d6d8e5'
+    - '#979ebb'
+    - '#805a65'
+  brandStrength: 0.3125
+  lightness: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 0.25
 purpose: []
