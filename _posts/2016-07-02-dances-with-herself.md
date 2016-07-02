@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Dances With Herself by Tim Mancuso '
-datePublished: '2016-07-02T08:52:15.562Z'
-dateModified: '2016-07-02T08:52:08.642Z'
-title: 'Dances With Herself '
+description: 'Click the Song Title above to play:  '
+datePublished: '2016-07-02T08:53:29.342Z'
+dateModified: '2016-07-02T08:53:26.860Z'
+title: Dances With Herself
 author: []
 sourcePath: _posts/2016-07-02-dances-with-herself.md
 authors: []
@@ -17,8 +17,10 @@ url: dances-with-herself/index.html
 _type: Article
 
 ---
-## [Dances With Herself ][0]
+## [Dances With Herself][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebe199e8-c63c-4482-a3be-00eceb9516d9.jpg)
+
+Click the Song Title above to play: 
 
 Dances With Herself by Tim Mancuso 
 
