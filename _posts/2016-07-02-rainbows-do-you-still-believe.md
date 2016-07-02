@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-07-02T07:19:25.625Z'
-dateModified: '2016-07-02T07:19:22.668Z'
+description: '(Do You Still Believe in) Rainbows - written by Tim Mancuso  '
+datePublished: '2016-07-02T07:42:03.238Z'
+dateModified: '2016-07-02T07:41:59.917Z'
 title: Rainbows (Do You Still Believe)
 author: []
 sourcePath: _posts/2016-07-02-rainbows-do-you-still-believe.md
@@ -18,5 +18,47 @@ _type: Article
 
 ---
 ## [Rainbows (Do You Still Believe)][0]
+
+(Do You Still Believe in) Rainbows - written by Tim Mancuso 
+
+I Hope that you smile   
+I hope that you're happy now   
+I heard that you're married   
+You're doing alright 
+
+I wish I could let it go today   
+But it just won't go away   
+Oh No, You're still right here inside 
+
+Maybe I should call   
+No that wouldn't be right   
+You've got him now   
+You don't need me to mess your mind 
+
+But if I could talk with you today   
+There's so much I'd want to say   
+Oh Lord you know it's been a long long time 
+
+Do you still believe in rainbows   
+Do your eyes still shine in the night   
+And do you still remember   
+The last time that we said goodbye 
+
+I miss you now   
+I miss you always   
+Nothing's the same without you in my life 
+
+I wish I could find a better way   
+Just to make it through each day   
+You know you are forever on my mind 
+
+Do you still believe in rainbows   
+Does the moonlight on the water make you cry   
+And do you still remember   
+The last time that we   
+The last time that we   
+The last time that we said goodbye 
+
+Copyright 1987 Tim Mancuso. 
 
 [0]: https://www.reverbnation.com/steadfast/song/4059116-rainbows-do-you-still-believe
