@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-02T07:18:20.454Z'
-dateModified: '2016-07-02T07:18:13.859Z'
+datePublished: '2016-07-02T07:19:15.417Z'
+dateModified: '2016-07-02T07:19:11.870Z'
 title: Love Come Down (Worship Cover)
 author: []
 sourcePath: _posts/2016-07-02-love-come-down-worship-cover.md
