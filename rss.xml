@@ -4,7 +4,7 @@
         <description><![CDATA[Musician Tim Mancuso - Steadfast]]></description>
         <link>https://thegrid.ai/steadfast/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 08:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 08:08:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/steadfast/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[You are here. ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/steadfast/you-are-here/index.html</link>
             <guid isPermaLink="false">80df25a7-6ca0-49c5-9159-544e492e4ce7</guid>
             <pubDate>Sat, 02 Jul 2016 07:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c89d9189-ec83-4632-940b-1543e822c783.jpg">]]></description>
+            <link>https://thegrid.ai/steadfast/35752bb8-9b9a-4e9e-96d3-288c0be2bf47/index.html</link>
+            <guid isPermaLink="false">35752bb8-9b9a-4e9e-96d3-288c0be2bf47</guid>
+            <pubDate>Sat, 02 Jul 2016 08:08:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/steadfast/never-lose-who-you-are/index.html</link>
             <guid isPermaLink="false">23879eea-bbb4-4ba9-97d8-5f6547e1a1b6</guid>
             <pubDate>Sat, 02 Jul 2016 07:37:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cry No More]]></title>
-            <description><![CDATA[<article><h1>Cry No More</h1><p>Cry No More - T. Mancuso </p></article>]]></description>
-            <link>https://thegrid.ai/steadfast/cry-no-more/index.html</link>
-            <guid isPermaLink="false">2ae63f7d-6aec-4dfc-b11f-931d23cac28d</guid>
-            <pubDate>Sat, 02 Jul 2016 07:33:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
