@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Hello - please consider becoming a 'Fan' on Facebook or on Reverbnation. I
   appreciate it greatly. 
-datePublished: '2016-07-02T06:28:06.702Z'
-dateModified: '2016-07-02T06:27:59.598Z'
+datePublished: '2016-07-02T06:29:36.411Z'
+dateModified: '2016-07-02T06:29:34.134Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-02-you-are-here.md
@@ -19,7 +19,7 @@ url: you-are-here/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22d8343e-1b9e-4d11-98a7-bef1d55faa9e.jpg)
+![Tim-Mancuso-Music](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22d8343e-1b9e-4d11-98a7-bef1d55faa9e.jpg)
 
 Hello - please consider becoming a 'Fan' on [Facebook][0] or on [Reverbnation][1]. I appreciate it greatly. 
 
