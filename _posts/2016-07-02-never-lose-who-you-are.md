@@ -1,18 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-02T07:16:26.794Z'
-dateModified: '2016-07-02T07:16:26.491Z'
+datePublished: '2016-07-02T07:19:40.275Z'
+dateModified: '2016-07-02T07:19:37.859Z'
 title: Never Lose Who You Are
 author: []
+sourcePath: _posts/2016-07-02-never-lose-who-you-are.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-02-never-lose-who-you-are.md
 url: never-lose-who-you-are/index.html
 _type: Article
 
