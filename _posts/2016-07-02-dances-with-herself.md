@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Click the Song Title above to play:  '
-datePublished: '2016-07-02T08:53:29.342Z'
-dateModified: '2016-07-02T08:53:26.860Z'
+description: 'Click the Song Title above to play:  Dances With Herself by Tim Mancuso '
+datePublished: '2016-07-02T08:53:59.780Z'
+dateModified: '2016-07-02T08:53:56.768Z'
 title: Dances With Herself
 author: []
 sourcePath: _posts/2016-07-02-dances-with-herself.md
@@ -20,8 +20,7 @@ _type: Article
 ## [Dances With Herself][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebe199e8-c63c-4482-a3be-00eceb9516d9.jpg)
 
-Click the Song Title above to play: 
-
+Click the Song Title above to play:   
 Dances With Herself by Tim Mancuso 
 
 She walks down a lover's lane   
