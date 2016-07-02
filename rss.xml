@@ -4,7 +4,7 @@
         <description><![CDATA[Musician Tim Mancuso - Steadfast]]></description>
         <link>https://thegrid.ai/steadfast/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 08:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 08:42:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/steadfast/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[You are here. ]]></title>
@@ -68,13 +68,6 @@
             <link>https://thegrid.ai/steadfast/a39a3b54-7ab7-4ec9-8e27-6b257fd13f14/index.html</link>
             <guid isPermaLink="false">a39a3b54-7ab7-4ec9-8e27-6b257fd13f14</guid>
             <pubDate>Sat, 02 Jul 2016 08:11:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abce7477-eb18-4e5d-999e-45340c5e0343.jpg">]]></description>
-            <link>https://thegrid.ai/steadfast/04247b09-0a50-4bf6-afe2-e0975c48f0fd/index.html</link>
-            <guid isPermaLink="false">04247b09-0a50-4bf6-afe2-e0975c48f0fd</guid>
-            <pubDate>Sat, 02 Jul 2016 08:08:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
