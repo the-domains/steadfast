@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Cry No More - T. Mancuso '
-datePublished: '2016-07-02T07:33:48.323Z'
-dateModified: '2016-07-02T07:33:40.447Z'
+datePublished: '2016-07-02T08:39:22.837Z'
+dateModified: '2016-07-02T08:39:13.991Z'
 title: Cry No More
 author: []
 sourcePath: _posts/2016-07-02-cry-no-more.md
@@ -17,6 +17,8 @@ url: cry-no-more/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1481e282-d003-4edc-9cde-52c0040d4c2a.jpg)
+
 ## [Cry No More][0]
 
 Cry No More - T. Mancuso 
