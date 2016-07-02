@@ -4,7 +4,7 @@
         <description><![CDATA[Musician Tim Mancuso - Steadfast]]></description>
         <link>https://thegrid.ai/steadfast/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 08:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 08:30:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/steadfast/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[You are here. ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/steadfast/you-are-here/index.html</link>
             <guid isPermaLink="false">80df25a7-6ca0-49c5-9159-544e492e4ce7</guid>
             <pubDate>Sat, 02 Jul 2016 07:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rainbows (Do You Still Believe)]]></title>
+            <description><![CDATA[<article><h1>Rainbows (Do You Still Believe)</h1><p>(Do You Still Believe in) Rainbows - written by Tim Mancuso </p></article>]]></description>
+            <link>https://thegrid.ai/steadfast/rainbows-do-you-still-believe/index.html</link>
+            <guid isPermaLink="false">97f978b1-46b1-4e1c-8d7c-1adf1901760a</guid>
+            <pubDate>Sat, 02 Jul 2016 08:30:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dream Big]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/steadfast/8dc2fb78-7972-4890-8ee0-b314a8d3325e/index.html</link>
             <guid isPermaLink="false">8dc2fb78-7972-4890-8ee0-b314a8d3325e</guid>
             <pubDate>Sat, 02 Jul 2016 07:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef517ee5-fafe-4644-a411-631510bd3ac0.jpg">]]></description>
-            <link>https://thegrid.ai/steadfast/a5d68c18-ea9f-4062-b8d4-e2eba7ca7084/index.html</link>
-            <guid isPermaLink="false">a5d68c18-ea9f-4062-b8d4-e2eba7ca7084</guid>
-            <pubDate>Sat, 02 Jul 2016 07:45:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
