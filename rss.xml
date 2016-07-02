@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Tim Mancuso Music]]></title>
-        <description><![CDATA[Tim Mancuso Music]]></description>
+        <title><![CDATA[Musician Tim Mancuso - Steadfast]]></title>
+        <description><![CDATA[Musician Tim Mancuso - Steadfast]]></description>
         <link>https://thegrid.ai/steadfast/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 06:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 06:44:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/steadfast/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[You are here. ]]></title>
-            <description><![CDATA[<p>Hello - please consider becoming a 'Fan' on Facebook or on Reverbnation. I appreciate it greatly. </p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/22d8343e-1b9e-4d11-98a7-bef1d55faa9e.jpg" alt="Tim-Mancuso-Music" title="">]]></description>
             <link>https://thegrid.ai/steadfast/you-are-here/index.html</link>
             <guid isPermaLink="false">80df25a7-6ca0-49c5-9159-544e492e4ce7</guid>
-            <pubDate>Sat, 02 Jul 2016 06:39:26 GMT</pubDate>
+            <pubDate>Sat, 02 Jul 2016 06:44:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
