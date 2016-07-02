@@ -1,0 +1,73 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: 'Dances With Herself by Tim Mancuso  '
+datePublished: '2016-07-02T07:45:16.478Z'
+dateModified: '2016-07-02T07:45:09.085Z'
+title: Dances With Herself
+author: []
+authors: []
+publisher: null
+starred: false
+sourcePath: _posts/2016-07-02-dances-with-herself.md
+url: dances-with-herself/index.html
+_type: Article
+
+---
+## [Dances With Herself][0]
+
+Dances With Herself by Tim Mancuso 
+
+She walks down a lover's lane   
+But it's all the same   
+She's been there before 
+
+Inside of her cold blue eyes   
+Lies a frozen tear   
+From a thousand years ago 
+
+It's no use to try and hide   
+There's a hole inside   
+That brings her 'round to face 
+
+Alone in her lonely world   
+She's the only girl   
+Trying to find her place 
+
+She lives on the telephone line   
+Says she's wasting her time   
+Cause she knows it can't be helped   
+She sleeps in a pile of dreams   
+Torn apart at the seams   
+And she dances with herself 
+
+She walks down a lover's lane   
+But it's all the same   
+She's been there before 
+
+Inside of her cold blue eyes   
+Lies a frozen tear   
+From a thousand years ago 
+
+She lives on the telephone line   
+Says she's wasting her time   
+But she knows it can't be helped   
+She sleeps in a pile of dreams   
+Torn apart at the seams   
+And she dances with herself 
+
+She lives on the telephone line   
+Says she's wasting her time   
+Cause she knows it can't be helped   
+She sleeps in a pile of dreams   
+Torn apart at the seams   
+And she dances with herself   
+And she dances with herself   
+And she dances with herself 
+
+Copyright 1992 Tim Mancuso. Written and performed by Tim Mancuso & band
+
+[0]: https://www.reverbnation.com/steadfast/song/4059077-dances-with-herself
