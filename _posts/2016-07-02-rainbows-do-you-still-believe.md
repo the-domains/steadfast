@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '(Do You Still Believe in) Rainbows - written by Tim Mancuso '
-datePublished: '2016-07-02T08:30:07.729Z'
-dateModified: '2016-07-02T08:29:58.433Z'
+datePublished: '2016-07-02T08:41:58.835Z'
+dateModified: '2016-07-02T08:41:55.315Z'
 title: Rainbows (Do You Still Believe)
 author: []
 sourcePath: _posts/2016-07-02-rainbows-do-you-still-believe.md
