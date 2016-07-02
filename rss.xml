@@ -4,7 +4,7 @@
         <description><![CDATA[Musician Tim Mancuso - Steadfast]]></description>
         <link>https://thegrid.ai/steadfast/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 08:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 08:39:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/steadfast/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[You are here. ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/steadfast/you-are-here/index.html</link>
             <guid isPermaLink="false">80df25a7-6ca0-49c5-9159-544e492e4ce7</guid>
             <pubDate>Sat, 02 Jul 2016 07:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cry No More]]></title>
+            <description><![CDATA[<article><h1>Cry No More</h1><p>Cry No More - T. Mancuso </p></article>]]></description>
+            <link>https://thegrid.ai/steadfast/cry-no-more/index.html</link>
+            <guid isPermaLink="false">2ae63f7d-6aec-4dfc-b11f-931d23cac28d</guid>
+            <pubDate>Sat, 02 Jul 2016 08:39:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fantasy]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/steadfast/04247b09-0a50-4bf6-afe2-e0975c48f0fd/index.html</link>
             <guid isPermaLink="false">04247b09-0a50-4bf6-afe2-e0975c48f0fd</guid>
             <pubDate>Sat, 02 Jul 2016 08:08:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9bc1b9d-d8c2-427e-a180-0ce16c80fcc1.jpg">]]></description>
-            <link>https://thegrid.ai/steadfast/1fdc5790-e5e3-4a1d-9e76-24c0007e3641/index.html</link>
-            <guid isPermaLink="false">1fdc5790-e5e3-4a1d-9e76-24c0007e3641</guid>
-            <pubDate>Sat, 02 Jul 2016 08:07:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
