@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tim Mancuso Music]]></title>
+        <description><![CDATA[Tim Mancuso Music]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jul 2016 06:21:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[You are here. ]]></title>
+            <description><![CDATA[<p>Hello - please consider becoming a 'Fan' on Facebook or on Reverbnation. I appreciate it greatly. </p>]]></description>
+            <link>undefinedyou-are-here/index.html</link>
+            <guid isPermaLink="false">80df25a7-6ca0-49c5-9159-544e492e4ce7</guid>
+            <pubDate>Sat, 02 Jul 2016 06:21:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
