@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-02T07:03:22.471Z'
-dateModified: '2016-07-02T07:03:19.638Z'
+datePublished: '2016-07-02T07:11:40.852Z'
+dateModified: '2016-07-02T07:11:34.551Z'
 title: Cry No More
 author: []
 sourcePath: _posts/2016-07-02-cry-no-more.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: cry-no-more/index.html
 _type: Article
 
