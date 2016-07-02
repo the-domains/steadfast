@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Hello - please consider becoming a 'Fan' on Facebook or on Reverbnation. I
   appreciate it greatly. 
-datePublished: '2016-07-02T06:46:34.829Z'
-dateModified: '2016-07-02T06:44:34.241Z'
+datePublished: '2016-07-02T06:54:47.705Z'
+dateModified: '2016-07-02T06:54:42.744Z'
 title: ''
 author:
   - name: ''
@@ -16,7 +16,7 @@ author:
 sourcePath: _posts/2016-07-02-you-are-here.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: you-are-here/index.html
 _type: Article
 
@@ -29,7 +29,6 @@ NOTE: I put up FULL songs for the player, so you can listen, download and enjoy 
 It's come up a few times that some of the older lyrics and music posted here are not really 'Christian' songs. That's quite true, in fact, I wasn't saved (by a personal relationship with Jesus Christ) during the time these were written. In fact, it was just around the time of the 'one EP' project that I had come to know Christ as my Lord and Savior. It took some time for me to grow into the place I am today. Actually, I continue to grow daily. My hope is that through these songs you will hear a longing for a purpose 'bigger than ourselves' that is encoded into each of our hearts. 
 
 To have finally found that true truth - that is nothing short of Awesome. Praise God for Grace and Mercy. Blessings, -Tim
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b47a3c21-64d1-4157-b6b6-270d4ccac032.jpg)
 
 [0]: http://www.facebook.com/TimMancusoMusic
 [1]: http://www.reverbnation.com/steadfast
