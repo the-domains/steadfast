@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
   Hello - please consider becoming a 'Fan' on Facebook or on Reverbnation. I
   appreciate it greatly. 
-datePublished: '2016-07-02T06:54:47.705Z'
-dateModified: '2016-07-02T06:54:42.744Z'
+datePublished: '2016-07-02T07:07:40.316Z'
+dateModified: '2016-07-02T07:07:19.567Z'
 title: ''
 author:
   - name: ''
