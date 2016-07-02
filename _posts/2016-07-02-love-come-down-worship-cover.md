@@ -1,18 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-02T07:17:54.673Z'
-dateModified: '2016-07-02T07:17:54.334Z'
+datePublished: '2016-07-02T07:18:20.454Z'
+dateModified: '2016-07-02T07:18:13.859Z'
 title: Love Come Down (Worship Cover)
 author: []
+sourcePath: _posts/2016-07-02-love-come-down-worship-cover.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-02-love-come-down-worship-cover.md
 url: love-come-down-worship-cover/index.html
 _type: Article
 
