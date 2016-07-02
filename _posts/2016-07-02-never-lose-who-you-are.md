@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Never Lose Who You Are - written by Tim Mancuso / J. Neveils '
-datePublished: '2016-07-02T08:36:26.900Z'
-dateModified: '2016-07-02T08:36:16.719Z'
+description: 'Click the Song Title above to play:'
+datePublished: '2016-07-02T08:55:31.165Z'
+dateModified: '2016-07-02T08:55:10.779Z'
 title: Never Lose Who You Are
 author: []
 sourcePath: _posts/2016-07-02-never-lose-who-you-are.md
@@ -20,6 +20,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82359ddc-85df-48e6-9204-1019233bbc4b.jpg)
 
 ## [Never Lose Who You Are][0]
+
+Click the Song Title above to play:
 
 Never Lose Who You Are - written by Tim Mancuso / J. Neveils 
 
