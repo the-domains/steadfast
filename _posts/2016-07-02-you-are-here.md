@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Hello - please consider becoming a 'Fan' on Facebook or on Reverbnation. I
   appreciate it greatly. 
-datePublished: '2016-07-02T07:07:40.316Z'
-dateModified: '2016-07-02T07:07:19.567Z'
+datePublished: '2016-07-02T07:11:47.480Z'
+dateModified: '2016-07-02T07:11:35.997Z'
 title: ''
 author:
   - name: ''
