@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ' I Hope that you smile  I hope that you''re happy now  I heard that you''re married  You''re doing alright '
-datePublished: '2016-07-02T08:54:59.889Z'
-dateModified: '2016-07-02T08:54:55.460Z'
+datePublished: '2016-07-03T01:13:53.990Z'
+dateModified: '2016-07-03T01:13:51.553Z'
 title: Rainbows (Do You Still Believe)
 author: []
 sourcePath: _posts/2016-07-02-rainbows-do-you-still-believe.md
@@ -17,8 +17,9 @@ url: rainbows-do-you-still-believe/index.html
 _type: Article
 
 ---
-## [Rainbows (Do You Still Believe)][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d9f8ef2-f5d4-4d03-a6d5-1331e4c88dd5.jpg)
+
+## [Rainbows (Do You Still Believe)][0]
 
 Click the Song Title above to play:
 
