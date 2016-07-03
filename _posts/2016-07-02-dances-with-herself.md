@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Click the Song Title above to play:  Dances With Herself by Tim Mancuso '
-datePublished: '2016-07-02T08:53:59.780Z'
-dateModified: '2016-07-02T08:53:56.768Z'
+datePublished: '2016-07-03T01:12:19.958Z'
+dateModified: '2016-07-03T01:11:43.082Z'
 title: Dances With Herself
 author: []
 sourcePath: _posts/2016-07-02-dances-with-herself.md
